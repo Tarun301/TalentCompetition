@@ -14,6 +14,8 @@ export class JobSummaryCard extends React.Component {
         //url: 'http://localhost:51689/listing/listing/closeJob',
     }
 
+
+
     render() {
     }
 }
